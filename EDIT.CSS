@@ -1,8 +1,5 @@
-.edit .controller.ds4 {
-    background: url(https://github.com/PonderFN/GAMEPAD/blob/master/base.png);
-}
-
-
 .controller.edit {
     background: url(https://github.com/PonderFN/GAMEPAD/blob/master/base.png);
+    height: 544px;
+    width: 668px;
 }
