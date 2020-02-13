@@ -6,8 +6,3 @@
 .controller.edit {
     background: url(https://github.com/PonderFN/GAMEPAD/blob/master/base.png);
 }
-
-
-.edit .face .ds4 {
-    background: url(https://gamepadviewer.com/ps4-white-assets/dpad.svgz);
-}
