@@ -1,0 +1,31 @@
+.edit .controller.ds4 {
+    background: url(https://github.com/PonderFN/GAMEPAD/blob/master/base.png);
+}
+
+
+.controller.edit {
+    background: url(https://github.com/PonderFN/GAMEPAD/blob/master/base.png);
+}
+
+
+.edit .face .ds4 {
+    background: url(https://gamepadviewer.com/ps4-white-assets/dpad.svgz);
+}
+
+
+.edit .face {
+    position: absolute;
+    background: url(https://gamepadviewer.com/ps4-white-assets/dpad.svgz);
+}
+
+
+.edit .stick .ds4 {
+    background: url(https://schoettner.github.io/skins/sticks-custom.png);
+}
+
+
+.edit .stick {
+    position: absolute;
+    background: url(https://schoettner.github.io/skins/sticks-custom.png);
+}
+
