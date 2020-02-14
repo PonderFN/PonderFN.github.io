@@ -1,6 +1,6 @@
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://PonderFN.github.io//base.png);
+    background-image: url(https://PonderFN.github.io//base.png)!;
 }
 
 .ds4.white.disconnected {
@@ -24,7 +24,7 @@
 }
 
 .ds4.white .button {
-    background-image: url(ps4-white-assets/face.svgz);
+    background-image: url(ps4-white-assets/face.svgz)!;
 }
 
 .ds4.white .stick {
