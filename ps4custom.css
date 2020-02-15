@@ -3,6 +3,16 @@
 }
 
 
+.controller.edit {
+    background: url(https://PonderFN.github.io/base2.png);
+}
+
+
 .edit .ds4.white .button {
+    background-image: url(https://PonderFN.github.io/Buttons2.png);
+}
+
+
+edit .button {
     background-image: url(https://PonderFN.github.io/Buttons2.png);
 }
