@@ -3,7 +3,7 @@
 }
 
 
-.controller.edit {
+.controller.ds4 {
     background: url(https://PonderFN.github.io/base2.png);
 }
 
@@ -13,6 +13,6 @@
 }
 
 
-edit .button {
+.ds4 .button {
     background-image: url(https://PonderFN.github.io/Buttons2.png);
 }
